@@ -17,7 +17,7 @@ public class Thermos {
 			volume = (float) (volume + d);
 		}
 		else {
-			System.out.println("The capacity of thermos is: 1 liter\n");
+			System.out.println("The capacity of thermos is:: 1 liter\n");
 		}
 	}
 	
